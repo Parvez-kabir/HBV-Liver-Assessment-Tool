@@ -1,5 +1,9 @@
 
 # HBV Liver Assessment Tool
+APP Link : https://huggingface.co/spaces/parvez-kabir/HBV-Liver-Assessment-Tool
+
+<img width="1027" height="728" alt="image" src="https://github.com/user-attachments/assets/6270032f-45bd-4d1b-9ee2-d8ab4a6656ca" />
+
 
 HBV Liver Assessment Tool is an AI-powered diagnostic application designed to predict the severity of liver damage in patients with Hepatitis B Virus (HBV). By analyzing clinical biomarkers, this tool provides an automated assessment to assist healthcare professionals in making data-driven decisions.
 
