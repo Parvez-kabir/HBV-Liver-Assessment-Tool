@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+catboost
+jinja2
+python-multipart
